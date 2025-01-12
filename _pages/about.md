@@ -12,6 +12,16 @@ redirect_from:
 ======
 郭宗辉，中国海洋大学副教授，于2021年获得中国海洋大学博士学位，主要从事图像和谐化、伪造人脸检测等研究工作。
 
+经历：
+
+2022-2024 中国科学院计算技术研究所 博士后
+
+2017-2021 中国海洋大学  智能信息与通信系统 博士
+
+2010-2013 中国海洋大学  信号与信息处理     硕士
+
+2006-2010 中国海洋大学  电子信息工程       学士
+
 文章著作
 ======
 1. Zonghui Guo, Zhaorui Gu, Bing Zheng, Junyu Dong, Haiyong Zheng. Transformer for Image Harmonization and Beyond. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, DOI: 10.1109/TPAMI.2022.3207091.
