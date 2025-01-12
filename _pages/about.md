@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 个人简介
 ======
 郭宗辉，中国海洋大学副教授，于2021年获得中国海洋大学博士学位，主要从事图像和谐化、伪造人脸检测等研究工作。
